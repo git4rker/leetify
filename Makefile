@@ -1,0 +1,2 @@
+leetify: *.c
+	cc -o $@ $^
